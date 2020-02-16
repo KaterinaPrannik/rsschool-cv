@@ -39,4 +39,4 @@
 	
 	*Bengali language: Native expertise
 	*French language: Fluent expertise
-    *Visa Status: Permanent Resident
+        *Visa Status: Permanent Resident
